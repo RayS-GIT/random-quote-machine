@@ -1,7 +1,7 @@
 {
+  "homepage": "https://rays-git.github.io/random-quote-machine/",
   "name": "random-quote-machine",
   "private": true,
-  "homepage": "https://rays-git.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
